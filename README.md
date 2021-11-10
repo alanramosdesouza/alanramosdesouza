@@ -8,3 +8,10 @@
 - 🤔  Atualmente estou nos módulos  de Programação de Sistemas 1 e 2, linguagem Java.
 - 😄  Pronouns:  ele/ dele.
 -
+
+<div align="center">
+  <a href="https://github.com/alanramosdesouza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanramosdesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanramosdesouza&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
