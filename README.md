@@ -5,8 +5,6 @@
 - 🔭  Atualmente estou trabalhando de oficial de segurança em um Hotel.
 - 🌱  Estou me graduando em Engenharia de Software e estou no 6ª semestre.
 - 👯  Estou a procura de um Estágio para que eu  possa evoluir os conhecimentos adquiridos em graduação.
-- 😄  Pronouns:  ele/ dele.
--
 
 <div align="center">
   <a href="https://github.com/alanramosdesouza">
