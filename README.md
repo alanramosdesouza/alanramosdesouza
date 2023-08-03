@@ -3,8 +3,7 @@
 
 
 - 🔭  Atualmente estou trabalhando de oficial de segurança em um Hotel.
-- 🌱  Estou me graduando em Engenharia de Software e Engenharia da Computação.
-- 👯  Estou a procura de um Estágio para que eu  possa evoluir os conhecimentos adquiridos em graduação.
+- 🌱  Estou me graduando em Engenharia de Software.
 
 <div align="center">
   <a href="https://github.com/alanramosdesouza">
